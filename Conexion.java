@@ -14,6 +14,13 @@ import java.sql.SQLException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+/**
+	CLASE DE CONEXION MYSQL , CLARO FUNCIONA CON TODAS LAS CONEXIONES QUE MANEJAN PUERTOS 3306
+	VERSION: 1.0
+	AUTOR: ROLANDO ARRIAZA 
+	LICENCIA: GPL
+*/
+
 
 public class Conexion {
     
