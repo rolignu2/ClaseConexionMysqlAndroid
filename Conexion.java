@@ -1,5 +1,4 @@
-package com.example.mqventa_recuperacion;
-
+//package nombre de tu paquete
 
 
 import com.mysql.jdbc.Statement;
